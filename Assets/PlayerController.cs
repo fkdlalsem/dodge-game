@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody playerRigidbody;
     public float speed = 8f;
-    int a,b,c;
+    int a,b,c,d;
 
     void Start()
     {
